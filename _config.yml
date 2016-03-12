@@ -1,0 +1,28 @@
+name: recruitment
+favicon: null
+layout_spectrum: 0.11363705713301897
+typography_spectrum: 0.8732155587058514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.09268381958827376
+  lightness: 0.29462768556550145
+  saturation: 0.964596506441012
+  rhythmicContrast: 0.5368898999877274
+purpose: []
